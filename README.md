@@ -8,7 +8,7 @@ I have successfully developed automated ETL pipelines to move data from Bronze t
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV1YXZiNG1xOHdicXo3eDhwNzQ2bWFrN2t4Z2JwdzdzZmZwbzZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif">
 
 - 🔭 I’m a **Aspiring Data Engineer**
-- 👨‍💻 Ask me about **Building Modern Data Warehousing**
+- 👩‍💻 Ask me about **Building Modern Data Warehousing**
 - 💬 LinkedIn **www.linkedin.com/in/seham-s-alhuzaymi-a918392aa**
 
 
