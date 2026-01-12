@@ -4,10 +4,9 @@
 
 I have successfully developed automated ETL pipelines to move data from Bronze to the Silver layer, utilizing Python (Pandas) and T-SQL for rigorous data cleansing and standardization. With a background in Azure AI fundamentals and a continuous learning mindset, I am focused on mastering scalable data modeling and cloud integration to bridge the gap between raw data and actionable business insights.</h4>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV1YXZiNG1xOHdicXo3eDhwNzQ2bWFrN2t4Z2JwdzdzZmZwbzZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif">
+
 
 - 🔭 I’m a **Aspiring Data Engineer**
-- 👩‍💻 Ask me about **Building Modern Data Warehousing**
 - 💬 LinkedIn **www.linkedin.com/in/seham-s-alhuzaymi-a918392aa**
 
 
