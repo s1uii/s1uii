@@ -6,7 +6,7 @@ I have successfully developed automated ETL pipelines to move data from Bronze t
 
 
 
-- 🔭 I’m a **Aspiring Data Engineer**
+- 💫 I’m a **Data Engineer**
 - 💬 LinkedIn **www.linkedin.com/in/seham-s-alhuzaymi-a918392aa**
 
 
