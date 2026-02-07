@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi, I'm Seham Alhuzaymi !</h1>
-<h4 align="center">A Computer Science graduate and an aspiring Data Engineer with a strong foundation in data architecture and a high GPA. I am currently dedicated to building an end-to-end SQL Data Warehouse, where I am actively implementing a Medallion Architecture.
-
-I have successfully developed automated ETL pipelines to move data from Bronze to the Silver layer, utilizing Python (Pandas) and T-SQL for rigorous data cleansing and standardization. With a background in Azure AI fundamentals and a continuous learning mindset, I am focused on mastering scalable data modeling and cloud integration to bridge the gap between raw data and actionable business insights.</h4>
+<h4 align="center">Recent Computer Science graduate interested in Data Engineering, with hands-on experience in building ETL data pipelines using Python and SQL, extracting data through Web Scraping and APIs, and organizing it into Data Warehouses and relational databases, while continuously developing my technical skills.</h4>
 
 
 
