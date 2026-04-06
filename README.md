@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00BFFF,100:1E90FF&reversal=true" />
 </div>
 
 <h3 align="center">
