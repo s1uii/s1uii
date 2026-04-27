@@ -20,11 +20,6 @@
   </span>
 </p>
 
-- 👩‍💻 I'm a **Data Engineer** passionate about building scalable data pipelines  
-- ⚡ Experienced in **ETL pipelines** using Python & SQL  
-- ☁️ Working with **Azure & Data Platforms**  
-- 🌱 Currently improving my skills in **Spark & Big Data technologies**  
-
 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Skills
